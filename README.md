@@ -1,13 +1,9 @@
-# One-Star Review: Oxygen
+# One Star Review: Gravity
 
-Oxygen: one star. Perfectly adequate until I pull the duvet over my head, at which point it simply runs out.
+Gravity: one star. I set my phone down beside me. By morning it is on the floor. It has never once done the reverse.
 
-## Links
+[https://make.fun](https://make.fun)
 
-- [make.fun](https://make.fun)
-
-## Badges
-
-![Badge 1](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629.svg)
-![Badge 2](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/slogomm/one-star-review-essential-slogomm/rank.svg)
-![Badge 3](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/slogomm/one-star-review-essential-slogomm/reward.svg)
+![Badge](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629.svg)
+![Rank](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/slogomm/one-star-review-essential-slogomm/rank.svg)
+![Reward](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/slogomm/one-star-review-essential-slogomm/reward.svg)

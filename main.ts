@@ -1,10 +1,10 @@
-import { mkdirSync, writeFileSync } from "node:fs";
-import { dirname } from "node:path";
+import { mkdirSync, writeFileSync } from 'fs';
+import { join } from 'path';
 
-const outputDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
+const outputDir = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
+const entryText = 'Gravity: one star. I set my phone down beside me. By morning it is on the floor. It has never once done the reverse.';
+
 mkdirSync(outputDir, { recursive: true });
+writeFileSync(join(outputDir, 'entry.txt'), entryText);
 
-const entryPath = `${outputDir}/entry.txt`;
-const content = "Oxygen: one star. Perfectly adequate until I pull the duvet over my head, at which point it simply runs out.";
-writeFileSync(entryPath, content, { encoding: "utf8", flag: "w" });
 // Revised after local test
